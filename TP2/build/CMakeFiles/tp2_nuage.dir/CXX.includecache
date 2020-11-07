@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/nicolas/Desktop/C++/TP/tp_2/src/cartesien.cpp
+cartesien.hpp
+/home/nicolas/Desktop/C++/TP/tp_2/src/cartesien.hpp
+
+/home/nicolas/Desktop/C++/TP/tp_2/src/cartesien.hpp
+cmath
+-
+point.hpp
+/home/nicolas/Desktop/C++/TP/tp_2/src/point.hpp
+polaire.hpp
+/home/nicolas/Desktop/C++/TP/tp_2/src/polaire.hpp
+
+/home/nicolas/Desktop/C++/TP/tp_2/src/main_nuage.cpp
+cstdlib
+-
+
+/home/nicolas/Desktop/C++/TP/tp_2/src/point.cpp
+point.hpp
+/home/nicolas/Desktop/C++/TP/tp_2/src/point.hpp
+
+/home/nicolas/Desktop/C++/TP/tp_2/src/point.hpp
+iostream
+-
+
+/home/nicolas/Desktop/C++/TP/tp_2/src/polaire.cpp
+polaire.hpp
+/home/nicolas/Desktop/C++/TP/tp_2/src/polaire.hpp
+
+/home/nicolas/Desktop/C++/TP/tp_2/src/polaire.hpp
+point.hpp
+/home/nicolas/Desktop/C++/TP/tp_2/src/point.hpp
+cartesien.hpp
+/home/nicolas/Desktop/C++/TP/tp_2/src/cartesien.hpp
+

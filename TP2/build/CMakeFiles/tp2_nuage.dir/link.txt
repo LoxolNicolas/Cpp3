@@ -1,0 +1,1 @@
+/usr/bin/cc   -rdynamic CMakeFiles/tp2_nuage.dir/src/main_nuage.cpp.o CMakeFiles/tp2_nuage.dir/src/cartesien.cpp.o CMakeFiles/tp2_nuage.dir/src/point.cpp.o CMakeFiles/tp2_nuage.dir/src/polaire.cpp.o  -o tp2_nuage -lpthread -lstdc++ -lm 

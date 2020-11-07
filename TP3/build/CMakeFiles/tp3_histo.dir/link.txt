@@ -1,0 +1,1 @@
+/usr/bin/cc   -rdynamic CMakeFiles/tp3_histo.dir/src/main_histo.cpp.o CMakeFiles/tp3_histo.dir/src/valeur.cpp.o CMakeFiles/tp3_histo.dir/src/echantillon.cpp.o CMakeFiles/tp3_histo.dir/src/classe.cpp.o CMakeFiles/tp3_histo.dir/src/histogramme.cpp.o  -o tp3_histo -lpthread -lstdc++ -lm 
